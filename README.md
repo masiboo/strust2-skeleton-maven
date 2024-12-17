@@ -1,4 +1,4 @@
-# Working struts 2  skeleton 
+# Working struts 2  skeleton  with Maven
 
 make war file by maven install then deploy the war file to Tomcat webapps  
 
